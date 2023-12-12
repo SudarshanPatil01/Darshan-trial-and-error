@@ -1,3 +1,2 @@
 # Darshan-trial-and-error
-Hey there i am doing great
-
+This is my first repository. Author-Sudarshan Patil
